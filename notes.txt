@@ -1,0 +1,39 @@
+@Classified
+
+
+=> Ad category list
+ 1. Jobs
+ 2. Rentals
+ 3. Local Services
+ 4. Cars
+ 5. Buy/Sell/Trade 
+ 6. Entertainment/Travel  
+ 7. ArmenianConnect 
+
+=> Directory Category List
+1. Appliance Sales & Repair
+2. Automative 
+3. Cleaning & Sanitation 
+4. Clubs/Organizations 
+5. Computers, Phones & Electronics 
+6. Community Services 
+7. Construction 
+8. Beauty 
+9. Financial & Tax Services 
+10. Food & Beverages 
+11. Government 
+12. Health & Medical Services
+13. Home Repair Services
+14. Insurance Services  
+15. Legal Services  
+16. Moving & Transportation 
+17. Printing/Designing/Branding 
+18. Religion
+19. Real Estate
+20. Retail Stores & Shopping
+21. Schools, Education & Child Care 
+22. Social Services 
+23. Special Event Services 
+24. Sports & Recreation 
+25. Travel & Hospitality 
+26. Website & Marketing
